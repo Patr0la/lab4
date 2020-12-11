@@ -6,9 +6,9 @@
 - ostvarite JK bistabil pomoću AB bistabila.
 
 ###  AB bistabil
-Formulu stanja AB bistabila sam otkrio, te sam realizirao AB bistabil prema uputama. Asistent je bio potvrdio da je kod ispravan.
+Formulu stanja AB bistabila sam otkrio te sam realizirao AB bistabil prema uputama. Asistent je bio potvrdio da je kod ispravan.
 [ab bistabil](ab.vhdl)
-S
+
 ## JK bistabil pomoću AB bistabila
 
 ### Ideja za ostvarivanje JK bistabila
